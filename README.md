@@ -1,3 +1,10 @@
+  <a href=" https://vinaypatle.netlify.app/">
+    <img
+      alt="Vinay Patle
+      src="./assets/banner.png"
+      width="100%"
+    />
+  </a>
 # 💫 About Me:
 🔭 I’m currently working on a MERN Project<br>🌱 I’m Interested to work on Web 3.0<br>👯 I’m making the world better by PRs<br>💬 Ask me about Technology & Finance<br>📫 How to reach me: patlevinay2003@gmail.com<br>⚡ Fun fact: I'm currently studying B. Tech Computer Science<br><br>
 
