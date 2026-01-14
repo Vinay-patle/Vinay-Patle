@@ -5,6 +5,9 @@
       width="100%"
     />
   </a>-->
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 # 💫 About Me:
 🔭 I’m currently working on a MERN Project<br>🌱 I’m Interested to work on Web 3.0<br>👯 I’m making the world better by PRs<br>💬 Ask me about Technology & Finance<br>📫 How to reach me: patlevinay2003@gmail.com<br>⚡ Fun fact: I'm currently studying B. Tech Computer Science<br><br>
 
