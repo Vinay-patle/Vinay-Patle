@@ -18,16 +18,18 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
 
 ###
 
 <p align="left">I'm Vinay Patle from Seoni and currently in Bhopal<br><br>- 🔭 I’m working on a React Native Expo app project.<br>- 📚 I'm currently learning React and React Native Patterns and backend integration with Firebase.<br>- ⚡ In my free time I explore UI/UX and improve my problem-solving and dev skills.<br>- 📫 How to reach me: patlevinay2003@gmail.com</p>
 
+
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+
+<h3 align="left">🛠 Language and tools :</h3>
 
 ###
 
