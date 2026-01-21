@@ -32,8 +32,9 @@
 
 
 ###
+Hi! I'm Noor Mohammad, a passionate **Software Engineer** specializing in modern web development technologies. My expertise lies in building dynamic, responsive, and scalable applications. I have a keen interest in the **MERN stack**, **React**, **React Native** and **Next.js**, and I'm always eager to explore new tools and technologies.
 
-<p align="left">Hi! I'm Vinay Patle, a passionate **Software Engineer** specializing in modern web development technologies. My expertise lies in building dynamic, responsive, and scalable applications. I have a keen interest in the **MERN stack**, **React**, **React Native** and **Next.js**, and I'm always eager to explore new tools and technologies<br><br>- 🔭 I’m working on a React Native Expo app project.<br>- 📚 I'm currently learning React and React Native Patterns and backend integration with Firebase.<br>- ⚡ In my free time I explore UI/UX and improve my problem-solving and dev skills.<br>- 📫 How to reach me: patlevinay2003@gmail.com</p>
+<p align="left"><br><br>- 🔭 I’m working on a React Native Expo app project.<br>- 📚 I'm currently learning React and React Native Patterns and backend integration with Firebase.<br>- ⚡ In my free time I explore UI/UX and improve my problem-solving and dev skills.<br>- 📫 How to reach me: patlevinay2003@gmail.com</p>
 
 
 ###
