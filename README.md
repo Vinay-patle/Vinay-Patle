@@ -77,16 +77,27 @@
   <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
 </div>
 
-## 🌐 Socials:
+<!--## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vinay.patle_/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinaypatle/) 
-<a href="mailto:noor.jsdivs@gmail.com"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white" alt="Email" /></a>
+<a href="mailto:noor.jsdivs@gmail.com"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white" alt="Email" /></a>-->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vinay-patle&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vinay-patle&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-patle&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 📬 Let's Connect
+
+<div>
+  <a href="https://https://www.youtube.com/@Code_aur_chai3" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.linkedin.com/in/vinaypatle" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Vinay-patle" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://x.com/patlevinay2003" target="_blank"><img src="https://img.shields.io/badge/x-100000?style=for-the-badge&logo=x&logoColor=white" alt="x" /></a>
+  <a href="mailto:vinaypatle1706@gmail.com"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white" alt="Email" /></a>
+
+</div>
+  
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vinay-patle&limit=5&theme=dark&combine_all_yearly_contributions=true)
