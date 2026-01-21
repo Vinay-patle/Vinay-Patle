@@ -15,7 +15,7 @@
 ###
 
 <h2 style="margin-top: 20px;">
-    <code style="color: #212529; font-size: 18px;">console.log('Software Engineer | MERN Enthusiast 🚀')</code>
+    <code style="color: #212529; font-size: 18px;" align="center" >console.log('Software Engineer | MERN Enthusiast 🚀')</code>
   </h2>
 
 <h3 align="left">👩‍💻  About Me</h3>
