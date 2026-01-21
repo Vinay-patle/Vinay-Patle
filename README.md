@@ -1,4 +1,10 @@
 ###
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Vinay-patle-2&label=Profile%20views&color=0e75b6&style=flat)
+
+###
+
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -10,7 +16,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there 👋 I'm Vinay Patle </h1>
 
 ###
 
