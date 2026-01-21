@@ -94,7 +94,7 @@
   <a href="https://www.linkedin.com/in/vinaypatle" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Vinay-patle" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://x.com/patlevinay2003" target="_blank"><img src="https://img.shields.io/badge/x-100000?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
-  <a href="https://instagram.com/vinay.patle_" target="_blank"><img src="https://img.shields.io/badge/x-FF0000?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://instagram.com/vinay.patle_" target="_blank"><img src="https://img.shields.io/badge/x-FF0000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:vinaypatle1706@gmail.com"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white" alt="Email" /></a>
 
 </div>
