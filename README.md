@@ -1,114 +1,49 @@
-###
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=Vinay-patle-2&label=Profile%20views&color=0e75b6&style=flat)
-
-###
+## Profile snapshot
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
-###
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=vinay-patle&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F115407891%3Fu%3D76604ff7ff1d20d60ebd390a0317fb9d6bad0885%26v%3D4" alt="vinay-patle hero visual" />
+</p>
 
-<div align="center">
-</div>
-
-###
-
-<h1 align="center">hey there 👋 I'm Vinay Patle </h1>
-
-###
-
-<h2 style="margin-top: 20px;" align="center">
-    <code style="color: #212529; font-size: 18px;" >console.log('Software Engineer | MERN Enthusiast 🚀')</code>
-  </h2>
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<!--<img align="right" height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>-->
-
-
-###
-Hi! I'm **Vinay Patle**, a passionate **Software Engineer** specializing in modern web development technologies. My expertise lies in building dynamic, responsive, and scalable applications. I have a keen interest in the **MERN stack**, **React**, **React Native** and **Next.js**, and I'm always eager to explore new tools and technologies.
-
-<p align="left"><br><br>- 🔭 I’m working on a React Native Expo app project.<br>- 📚 I'm currently learning React and React Native Patterns and backend integration with Firebase.<br>- ⚡ In my free time I explore UI/UX and improve my problem-solving and dev skills.<br>- 📫 How to reach me: patlevinay2003@gmail.com</p>
-
-
-###
-
-
-<h3 align="left">🛠 Language and tools :</h3>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
-</div>
-
-<!--## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vinay.patle_/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinaypatle/) 
-<a href="mailto:noor.jsdivs@gmail.com"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white" alt="Email" /></a>-->
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vinay-patle&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vinay-patle&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-patle&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 📬 Let's Connect
-
-<div>
-  <a href="https://https://www.youtube.com/@Code_aur_chai3" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.linkedin.com/in/vinaypatle" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Vinay-patle" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://x.com/patlevinay2003" target="_blank"><img src="https://img.shields.io/badge/X-100000?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
-  <a href="https://instagram.com/vinay.patle_" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:vinaypatle1706@gmail.com"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white" alt="Email" /></a>
+<p><b>Frontend or full-stack engineer</b></p>
 
 </div>
-  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vinay-patle&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## About
 
----
-[![](https://visitcount.itsvg.in/api?id=vinay-patle&icon=5&color=6)](https://visitcount.itsvg.in)
+> Front-End Dev | React &amp; React Native | Learning Full-Stack🚀
+
+- 📍 Based in **Bhopal **
+- 🌐 [Website](https://vinaypatle.netlify.app/)
+- 👥 **2** followers · **1** following
+
+*Small, useful work over vague claims.*
+
+## Core toolkit
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=vinay-patle&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F115407891%3Fu%3D76604ff7ff1d20d60ebd390a0317fb9d6bad0885%26v%3D4" alt="vinay-patle stack visual" />
+</p>
+
+## Selected work
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=vinay-patle&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F115407891%3Fu%3D76604ff7ff1d20d60ebd390a0317fb9d6bad0885%26v%3D4" alt="vinay-patle projects visual" />
+</p>
+
+## Let’s connect
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=vinay-patle&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F115407891%3Fu%3D76604ff7ff1d20d60ebd390a0317fb9d6bad0885%26v%3D4" alt="vinay-patle social visual" />
+</p>
+
+<a href="https://github.com/vinay-patle">GitHub</a> · <a href="https://vinaypatle.netlify.app/">Website</a> · <a href="https://x.com/patlevinay2003">X</a>
+
+## Activity
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=vinay-patle&theme=satan" alt="vinay-patle contribution activity" />
+</p>
+
+<p align="center"><sub>Vinay Patle · <a href="https://www.gitskins.com/readme-generator?template=community-recruiter-ready-danv">Recruiter-ready</a> template by <a href="https://www.gitskins.com/creators/itzz-shantanu">@itzz-shantanu</a>, a remix of <a href="https://www.gitskins.com/readme-generator?template=recruiter">Recruiter-ready</a> by GitSkins · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
